@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>Images/about.png</file>
+        <file>Images/clear.png</file>
+        <file>Images/exit.png</file>
+        <file>Images/help.png</file>
+        <file>Images/start.png</file>
+        <file>Images/export.png</file>
+        <file>Images/import.png</file>
+        <file>Images/restart.png</file>
+        <file>Images/compiler.ico</file>
+        <file>Images/error.png</file>
+    </qresource>
+</RCC>
